@@ -6,11 +6,11 @@
 
 ## Origen de datos
 
-| Capa | Fuente | Descripción |
+| Capa | Fuente | Descripción | URL |
 |---|---|---|
-| Cascos urbanos | INEI / IGN — Perú (2024) | Polígonos de zonas urbanizadas a nivel distrital |
-| Humedales | Ministerio del Ambiente — MINAM (2024) | Polígonos de ecosistemas de humedales del Perú |
-| Departamentos | IGN — Perú | Límites político-administrativos departamentales |
+| Cascos urbanos | INEI / IGN — Perú (2024) | Polígonos de zonas urbanizadas a nivel distrital | https://www.geogpsperu.com/2018/09/casco-urbano-100k-poblacion-urbana-ign.html |
+| Humedales | Ministerio del Ambiente — MINAM (2024) | Polígonos de ecosistemas de humedales del Perú | https://www.geogpsperu.com/2018/02/humedales-ramsar-shapefile-minam.html |
+| Departamentos | IGN — Perú | Límites político-administrativos departamentales | https://www.geogpsperu.com/2018/02/limite-departamental-politico-shapefile.html |
 
 Los archivos se distribuyen como shapefiles comprimidos en ZIP y se descargan automáticamente desde Google Drive al ejecutar el script.
 
